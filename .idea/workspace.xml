@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9495764d-b64f-48a4-af73-42d4cf201efc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gNAzp9kpbKjQ3UAsQ0MvaV9qi0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../webapp/src/assets/images" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/../webapp/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../webapp/src/assets/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../webapp/src/app/landing" />
+      <recent name="$PROJECT_DIR$/../webapp/src/app" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9495764d-b64f-48a4-af73-42d4cf201efc" name="Default Changelist" comment="" />
+      <created>1597944942122</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597944942122</updated>
+      <workItem from="1597944943735" duration="9286000" />
+      <workItem from="1597956901145" duration="8524000" />
+      <workItem from="1598024163974" duration="22921000" />
+      <workItem from="1598132953541" duration="585000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="504" y="289" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597952634578">
+      <screen x="0" y="23" width="1792" height="1042" />
+    </state>
+    <state x="504" y="289" key="#com.intellij.execution.impl.EditConfigurationsDialog/1792.23.3840.2137/0.23.1792.1042@0.23.1792.1042" timestamp="1597952634578" />
+    <state x="4831" y="998" key="#com.intellij.ide.util.MemberChooser" timestamp="1597959810319">
+      <screen x="1792" y="23" width="3840" height="2082" />
+    </state>
+    <state x="4831" y="998" key="#com.intellij.ide.util.MemberChooser/1792.23.3840.2082/0.23.1792.1097@1792.23.3840.2082" timestamp="1597959810319" />
+    <state x="1418" y="511" key="#com.intellij.ide.util.MemberChooser/1792.23.3840.2137/0.23.1792.1042@0.23.1792.1042" timestamp="1597955561372" />
+    <state x="2149" y="1217" key="SettingsEditor" timestamp="1598122567226">
+      <screen x="1792" y="23" width="3840" height="2137" />
+    </state>
+    <state x="2149" y="1217" key="SettingsEditor/1792.23.3840.2137/0.23.1792.1042@1792.23.3840.2137" timestamp="1598122567226" />
+    <state x="703" y="1273" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597976432485">
+      <screen x="0" y="23" width="3840" height="2082" />
+    </state>
+    <state x="703" y="1273" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.3840.2082@0.23.3840.2082" timestamp="1597976432485" />
+    <state x="2495" y="1273" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1792.23.3840.2082/0.23.1792.1097@1792.23.3840.2082" timestamp="1597957860476" />
+    <state x="2610" y="1105" width="586" height="873" key="find.popup" timestamp="1598042055156">
+      <screen x="1792" y="23" width="3840" height="2137" />
+    </state>
+    <state x="2610" y="1105" width="586" height="873" key="find.popup/1792.23.3840.2137/0.23.1792.1042@1792.23.3840.2137" timestamp="1598042055156" />
+    <state x="3213" y="870" width="750" height="600" key="org.angular.cli.generate" timestamp="1598128046787">
+      <screen x="1792" y="23" width="3840" height="2082" />
+    </state>
+    <state x="3213" y="870" width="750" height="600" key="org.angular.cli.generate/1792.23.3840.2082/0.23.1792.1097@1792.23.3840.2082" timestamp="1598128046787" />
+    <state x="663" y="447" width="350" height="300" key="org.angular.cli.generate/1792.23.3840.2137/0.23.1792.1042@0.23.1792.1042" timestamp="1597953278373" />
+    <state x="3213" y="892" width="750" height="616" key="org.angular.cli.generate/1792.23.3840.2137/0.23.1792.1042@1792.23.3840.2137" timestamp="1598039145417" />
+    <state x="544" y="389" width="670" height="676" key="search.everywhere.popup" timestamp="1597947732984">
+      <screen x="0" y="23" width="1792" height="1042" />
+    </state>
+    <state x="544" y="389" width="670" height="676" key="search.everywhere.popup/1792.23.3840.2137/0.23.1792.1042@0.23.1792.1042" timestamp="1597947732984" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../webapp/src/app/auth/auth.service.ts</url>
+          <line>28</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../webapp/src/app/app-routing.module.ts</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
